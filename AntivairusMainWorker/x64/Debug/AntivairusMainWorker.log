@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\vanya\source\repos\AntivairusMainWorker\AntivairusMainWorker\Source.cpp(59,34): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\vanya\source\repos\AntivairusMainWorker\AntivairusMainWorker\Source.cpp(100,9): warning C4101: hPort: неиспользованная локальная переменная
+C:\Users\vanya\source\repos\AntivairusMainWorker\AntivairusMainWorker\Source.cpp(171,20): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vanya\source\repos\AntivairusMainWorker\AntivairusMainWorker\Source.cpp(148,15): warning C4101: written: неиспользованная локальная переменная
+C:\Users\vanya\source\repos\AntivairusMainWorker\AntivairusMainWorker\Source.cpp(280,8): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\vanya\source\repos\AntivairusMainWorker\AntivairusMainWorker\Source.cpp(282,41): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\vanya\source\repos\AntivairusMainWorker\AntivairusMainWorker\Source.cpp(282,41): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+C:\Users\vanya\source\repos\AntivairusMainWorker\AntivairusMainWorker\Source.cpp(299,8): warning C4101: writtenBytes: неиспользованная локальная переменная
+C:\Users\vanya\source\repos\AntivairusMainWorker\AntivairusMainWorker\Source.cpp(366,23): warning C4838: преобразование из "int" в "char" требует сужающего преобразования
+C:\Users\vanya\source\repos\AntivairusMainWorker\AntivairusMainWorker\Source.cpp(342,16): warning C4101: ioctl: неиспользованная локальная переменная
+  AntivairusMainWorker.vcxproj -> C:\Users\vanya\source\repos\AntivairusMainWorker\x64\Debug\AntivairusMainWorker.exe

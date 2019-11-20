@@ -1,0 +1,16 @@
+﻿  Source.cpp
+C:\Users\vanya\source\repos\AntivairusMainWorker\AntivairusMainWorker\Source.cpp(58,34): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\vanya\source\repos\AntivairusMainWorker\AntivairusMainWorker\Source.cpp(99,9): warning C4101: hPort: неиспользованная локальная переменная
+C:\Users\vanya\source\repos\AntivairusMainWorker\AntivairusMainWorker\Source.cpp(173,20): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\vanya\source\repos\AntivairusMainWorker\AntivairusMainWorker\Source.cpp(150,15): warning C4101: written: неиспользованная локальная переменная
+C:\Users\vanya\source\repos\AntivairusMainWorker\AntivairusMainWorker\Source.cpp(272,8): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\vanya\source\repos\AntivairusMainWorker\AntivairusMainWorker\Source.cpp(274,41): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\vanya\source\repos\AntivairusMainWorker\AntivairusMainWorker\Source.cpp(274,41): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+C:\Users\vanya\source\repos\AntivairusMainWorker\AntivairusMainWorker\Source.cpp(291,8): warning C4101: writtenBytes: неиспользованная локальная переменная
+C:\Users\vanya\source\repos\AntivairusMainWorker\AntivairusMainWorker\Source.cpp(334,16): warning C4101: ioctl: неиспользованная локальная переменная
+  Создание кода
+  Создание кода завершено
+  1 of 29 functions ( 3.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  AntivairusMainWorker.vcxproj -> C:\Users\vanya\source\repos\AntivairusMainWorker\x64\Release\AntivairusMainWorker.exe

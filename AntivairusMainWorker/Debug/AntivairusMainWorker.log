@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\vanya\source\repos\AntivairusMainWorker\AntivairusMainWorker\Source.cpp(52,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vanya\source\repos\AntivairusMainWorker\AntivairusMainWorker\Source.cpp(76,15): warning C4101: written: неиспользованная локальная переменная
+C:\Users\vanya\source\repos\AntivairusMainWorker\AntivairusMainWorker\Source.cpp(163,8): warning C4101: dwDisposition: неиспользованная локальная переменная
+  AntivairusMainWorker.vcxproj -> C:\Users\vanya\source\repos\AntivairusMainWorker\Debug\AntivairusMainWorker.exe
